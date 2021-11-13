@@ -1,0 +1,16 @@
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\bin\Debug\net5.0\Customer.exe
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\bin\Debug\net5.0\Customer.deps.json
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\bin\Debug\net5.0\Customer.runtimeconfig.json
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\bin\Debug\net5.0\Customer.runtimeconfig.dev.json
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\bin\Debug\net5.0\Customer.dll
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\bin\Debug\net5.0\ref\Customer.dll
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\bin\Debug\net5.0\Customer.pdb
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.csproj.AssemblyReference.cache
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.AssemblyInfoInputs.cache
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.AssemblyInfo.cs
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.csproj.CoreCompileInputs.cache
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.dll
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\ref\Customer.dll
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.pdb
+E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.genruntimeconfig.cache
