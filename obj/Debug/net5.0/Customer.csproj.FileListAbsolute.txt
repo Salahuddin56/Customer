@@ -14,3 +14,19 @@ E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\C
 E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\ref\Customer.dll
 E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.pdb
 E:\Aiub\Semister 5\Software Engineering\Project\Code\Customer\obj\Debug\net5.0\Customer.genruntimeconfig.cache
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\bin\Debug\net5.0\Customer.exe
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\bin\Debug\net5.0\Customer.deps.json
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\bin\Debug\net5.0\Customer.runtimeconfig.json
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\bin\Debug\net5.0\Customer.runtimeconfig.dev.json
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\bin\Debug\net5.0\Customer.dll
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\bin\Debug\net5.0\ref\Customer.dll
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\bin\Debug\net5.0\Customer.pdb
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.csproj.AssemblyReference.cache
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.AssemblyInfoInputs.cache
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.AssemblyInfo.cs
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.csproj.CoreCompileInputs.cache
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.dll
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\ref\Customer.dll
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.pdb
+D:\Aiub\Semister 5\Software Engineering\Project\Code\New folder\Customer\obj\Debug\net5.0\Customer.genruntimeconfig.cache
